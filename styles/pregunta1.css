@@ -1,0 +1,36 @@
+
+section {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+}
+article {
+	width: 100%;
+	margin-bottom: 20px;
+  }
+h6 {
+	color: blue;
+	}
+	
+h5 {
+	color: rgb(2, 80, 105);
+	}
+.linea{
+	margin: 10px 30px;
+	text-decoration:underline;
+	font-weight: bold;
+    text-decoration-color: rgb(36, 36, 201);
+}
+  .nav-container {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	max-width: 1200px;
+	margin: 0 auto;
+	padding: 0 20px;
+  }
+
+
+
+  
+
